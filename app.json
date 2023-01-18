@@ -4,12 +4,11 @@
     "slug": "hi-guys",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "icon": "./assets/chat.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/chat.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#000000"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -18,16 +17,23 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.qad7089.higuys"
     },
     "android": {
+      "package": "com.qad7089.higuys",
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "foregroundImage": "./assets/chat.png",
+        "backgroundColor": "#151515"
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/chat.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "874e27d7-670f-46d3-9f9b-ef22da5d66ad"
+      }
     }
   }
 }
