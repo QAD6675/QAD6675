@@ -6,6 +6,7 @@ import { auth, db } from "../firebase";
 import ContactsFloatingIcon from "../components/ContactsFloatingIcon";
 import ListItem from "../components/ListItem";
 import useContacts from "../hooks/useHooks";
+
 export default function Chats() {
   const { currentUser } = auth;
   const { rooms, setRooms, setUnfilteredRooms } = useContext(GlobalContext);
