@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @QAD6675
-- 👀 I’m interested in android games development 
-- 🌱 I’m currently learning c# and web backend
-- 📫 my phone is 0622740223
+- 👋 Hi, I’m qadiri abderrahman
+- 👀 I’m interested in android apps and game development 
+- 🌱 I’m currently learning flutter
+- 📫 my phone is +212622740223
