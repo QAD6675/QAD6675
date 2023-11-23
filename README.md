@@ -1,4 +1,5 @@
 - 👋 Hi, I’m qadiri abderrahman
-- 👀 I’m interested in android apps and game development 
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in all kinds of development espicially the tuff ones 
+- 🌱 I’m currently learning assembly and os dev
+- one of #python haters ,#real programmers (c,cpp...) and #assembly enjoyers
 - 📫 my phone is +212622740223
