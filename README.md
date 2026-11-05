@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm El Qadiri Abderrahman</h1>
-<h3 align="center">A passionate self taught (everything but primarily)game developer from Morocco</h3>
+<h3 align="center">Game Developer & Systems Enthusiast from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qad6675&label=Profile%20views&color=0e75b6&style=flat" alt="qad6675" /> </p>
-
----
 
 ### 🚀 What I'm Up To
 - **Game Dev:** Currently working on **[The Last Teahouse](https://store.steampowered.com/app/5030710/)** (Steam page live soon!).
@@ -18,9 +16,7 @@
 - Email: **qadirixx01@gmail.com**
 - Community: **[The Stopwatch Games Discord](https://discord.gg/DvpGMFSej)**
 
----
-
-> ⚡ **Fun fact:** I Like Explosions
+> **Fun fact:** I Like Explosions
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
