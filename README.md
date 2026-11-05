@@ -1,17 +1,26 @@
-<h1 align="center">Hi 👋, I'm el qadiri abderrahman</h1>
+<h1 align="center">Hi 👋, I'm El Qadiri Abderrahman</h1>
 <h3 align="center">A passionate self taught (everything but primarily)game developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qad6675&label=Profile%20views&color=0e75b6&style=flat" alt="qad6675" /> </p>
 
-- 🔭 I’m currently working on [The KeyHole](https://keyhole.stopwatchgames.com/)
+---
 
-- 🌱 I’m currently learning **CyberSec,Reverse Engineering,os dev**
+### 🚀 What I'm Up To
+- **Game Dev:** Currently working on **[The Last Teahouse](https://store.steampowered.com/app/5030710/)** (Steam page live soon!).
+- **Security And Low-Level Dev:** tinkering with **Reverse Engineering, Malware Analysis, OS Dev and related** from time to time.
 
-- 💬 Ask me about **game dev,low level stuff or linux**
+### 💬 Ask Me About
+- Game Development and its news
+- Low-Level Stuff, Memory Management, Computer Graphics...
+- Linux and the FOSS world
 
-- 📫 How to reach me **qadirixx01@gmail.com or the stopwatch discord**
+### 📫 How to Reach Me
+- Email: **qadirixx01@gmail.com**
+- Community: **[The Stopwatch Games Discord](https://discord.gg/DvpGMFSej)**
 
-- ⚡ Fun fact **i like explosions**
+---
+
+> ⚡ **Fun fact:** I Like Explosions
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
